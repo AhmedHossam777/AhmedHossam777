@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript, nestJs, Postresql**
 
-- 💬 Ask me about **javaScrit, nodeJs, backend development**
+- 💬 Ask me about **javascript, nodeJs, backend development**
 
 - 📫 How to reach me **ahmedhossam9226@gmail.com**
 
