@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript, nestJs, Postresql**
 
-- 💬 Ask me about **javascript, nodeJs, backend development, networking, Linux, express, MongoDB, SQL**
+- 💬 Ask me about **javascript, typescript, nodeJs, backend development, networking, Linux, Express, MongoDB, SQL**
 
 - 📫 How to reach me **ahmedhossam9226@gmail.com**
 
