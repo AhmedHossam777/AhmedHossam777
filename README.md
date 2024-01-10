@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hossam</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedhossam777" alt="ahmedhossam777" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript, nestJs, Postresql**
 
-- 💬 Ask me about **javaScrit, nodeJs, backend development**
+- 💬 Ask me about **javascript, nodeJs, backend development**
 
 - 📫 How to reach me **ahmedhossam9226@gmail.com**
 
