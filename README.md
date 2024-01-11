@@ -1,6 +1,4 @@
-<img src="![github-header-image](https://github.com/AhmedHossam777/AhmedHossam777/assets/141541451/d0c3fc5b-151a-47bc-9d60-4c48b1a91052)
-" width="100%" />
-
+![github-header-image](https://github.com/AhmedHossam777/AhmedHossam777/assets/141541451/267738bf-33a9-4355-aa56-a746937677a7)
 
 <h1 align="center">Hi 👋, I'm Ahmed Hossam</h1>
 <h3 align="center">Backend nodejs developer</h3>
