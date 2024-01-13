@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/AhmedHossam777/AhmedHossam777/assets/141541451/267738bf-33a9-4355-aa56-a746937677a7)
 
 <h1 align="center">Hi 👋, I'm Ahmed Hossam</h1>
-<h3 align="center">Backend nodejs developer</h3>
+<h3 align="center">I'm a backend Node.js developer with a passion for building efficient, scalable, and secure web applications. I'm also a Linux and networking enthusiast, with a strong foundation in these areas that informs my approach to backend development.</h3>
 
 - 🌱 I’m currently learning **TypeScript, PostgreSQL, Containerization, Cloud**
  
