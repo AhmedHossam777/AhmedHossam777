@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-- 🌱 I’m currently learning **TypeScript, PostgreSQL, Containerization, Cloud**
+- 🌱 I’m currently learning **TypeScript, PostgreSQL, Containerization and Cloud**
  
 - 💬 Ask me about **node.js, express, javascript, Linux, mongoDB**
 
