@@ -4,6 +4,8 @@
 
 <h3 align="center">I'm a backend Node.js developer with a passion for building efficient, scalable, and secure web applications. I'm also a Linux and networking enthusiast, with a strong foundation in these areas that informs my approach to backend development.</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedsalman74&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+
 ###
 
 <br clear="both">
@@ -79,6 +81,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif"  />
+<img align="center" height="150" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif"  />
 
 ###
