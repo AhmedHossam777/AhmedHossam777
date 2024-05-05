@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ahmedhossam9226@gmail.com**
 
-- 📄 Know about my experiences [MY-CV](https://github.com/AhmedHossam777/AhmedHossam777/blob/main/Ahmed-Hossam-cv3.pdf)
+- 📄 Know about my experiences [MY-CV](https://github.com/AhmedHossam777/AhmedHossam777/blob/main/Ahmed-Hossam-FullTime.pdf)
 
 
 ###
