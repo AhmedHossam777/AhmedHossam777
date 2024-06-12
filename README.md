@@ -52,6 +52,4 @@
 
 ###
 
-<img align="center" height="150" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif"  />
-
 ###
