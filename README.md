@@ -11,9 +11,9 @@
 
 <br clear="both">
 
-- 🌱 I’m currently learning **TypeScript, PostgreSQL, Containerization and Cloud**
+- 🌱 I’m currently learning **Nest.js, Design Pattern and OOP, Containerization and Cloud**
  
-- 💬 Ask me about **node.js, express, javascript, Linux, mongoDB**
+- 💬 Ask me about **node.js, Backend, Typescript, OOP, Design Pattern, Linux, MongoDB, PostgreSQL**
 
 - 📫 How to reach me **ahmedhossam9226@gmail.com**
 
