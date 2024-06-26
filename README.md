@@ -38,7 +38,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,linux,vscode,css,html,py,redis,md,postman,react,redux,tailwind,vite,redhat,cpp,js,ts,postgres,mysql,mongodb,prisma,nodejs,expressjs,bash&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,vim,linux,vscode,css,html,py,redis,md,postman,react,redux,tailwind,vite,redhat,cpp,js,ts,postgres,mysql,mongodb,docker,prisma,nodejs,expressjs,bash&perline=5" />
   </a>
 </p>
 
