@@ -5,7 +5,6 @@
 <h3 align="center">Software Engineer building web applications. Passionate about creating user-friendly and efficient experiences. Always learning and up-to-date with the latest technologies.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedHossam777&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedHossam777"/> </p>
-<p align="center"> <img src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810"/> </p>
 
 ###
 
