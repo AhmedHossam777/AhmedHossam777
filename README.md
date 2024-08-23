@@ -31,13 +31,16 @@
   <a href="https://linkedin.com/in/ahmed-hossam-8319a1214/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=7" />
   </a>
+   <a href="https://dev.to/ahmedhossam777/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto&perline=7" />
+  </a>
 </div>
 
 ###
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,linux,vscode,css,html,py,redis,md,postman,react,redux,tailwind,bootstrap,vite,redhat,cpp,js,ts,postgres,nestjs,mysql,mongodb,docker,prisma,nodejs,expressjs,bash&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,vim,linux,vscode,css,html,py,redis,md,postman,react,bootstrap,redhat,cpp,js,ts,postgres,nestjs,mysql,mongodb,docker,prisma,nodejs,expressjs,obsidian" />
   </a>
 </p>
 
