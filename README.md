@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-- 🌱 I’m currently learning **Nest.js, Design Pattern and OOP, Containerization and Cloud**
+- 🌱 I’m currently learning **React.js, GO and system design**
  
 - 💬 Ask me about **node.js, Backend, Typescript, OOP, Design Pattern, Linux, MongoDB, PostgreSQL**
 
