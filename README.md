@@ -15,7 +15,7 @@
     - Software Engineer Intern @ **Manara**
     - Backend Engineer  @ **Almaster**
     - Backend Engineer Intern @ **Sarri**
-- 🔧 Focus: Designing robust APIs, optimizing database performance, ensuring seamless integration across systems and building scalable server side. 
+- 🔧 Focus: Designing robust APIs, optimizing database performance, ensuring seamless integration across systems and building scalable server side systems. 
 - 💬 Ask me about **node.js, Backend, Typescript, OOP, Design Pattern, Linux, MongoDB, PostgreSQL**
 - 📫 **Get in Touch:** Feel free to contact [ahmedhossam9226@gmail.com](mailto:ahmedhossam9226@gmail.com) for collaboration or opportunities!
 - 📄 Know about my experiences [MY-CV](https://drive.google.com/file/d/1waKw3a4ly9L9NPGrF7_ck9cih7xaT-lm/view?usp=sharing)
