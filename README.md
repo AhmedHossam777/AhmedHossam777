@@ -43,7 +43,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,linux,vscode,css,html,py,redis,md,postman,react,bootstrap,redhat,cpp,js,ts,postgres,nestjs,mysql,mongodb,docker,prisma,nodejs,expressjs,obsidian" />
+    <img src="https://skillicons.dev/icons?i=git,vim,linux,vscode,css,html,py,redis,md,postman,react,bootstrap,redhat,cpp,js,ts,postgres,nestjs,mysql,mongodb,docker,prisma,nodejs,expressjs,obsidian,rabbitmq" />
   </a>
 </p>
 
