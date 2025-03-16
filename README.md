@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **React.js, GO and system design**
 - 💼 Professional Experience:
     - Backend Engineer  @ **Almaster**
-    - Backend Engineer Intern @ **Sarri**
+    - EX Backend Engineer Intern @ **Sarri**
     - Software Engineer Intern @ **Manara**
 - 🔧 Focus: Designing robust APIs, optimizing database performance, ensuring seamless integration across systems and building scalable server side systems. 
 - 💬 Ask me about **node.js, Backend, Typescript, OOP, Design Pattern, Linux, MongoDB, PostgreSQL**
