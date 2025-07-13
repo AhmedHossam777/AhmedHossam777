@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,linux,vscode,css,html,py,redis,md,postman,react,bootstrap,redhat,cpp,js,ts,postgres,nestjs,mysql,mongodb,docker,prisma,nodejs,expressjs,go, obsidian" />
+    <img src="https://skillicons.dev/icons?i=git,vim,linux,vscode,css,html,py,redis,md,postman,react,bootstrap,redhat,cpp,js,ts,postgres,nestjs,mysql,mongodb,docker,prisma,nodejs,expressjs,go,obsidian&perline=10" />
   </a>
 </p>
 
