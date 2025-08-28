@@ -9,7 +9,7 @@
 ---
 
 ### 🌱 I’m currently learning
-- React.js
+- Devops
 - GO
 - System design
 
