@@ -8,7 +8,7 @@
 
 ---
 
-### 🌱 I’m currently learning
+### 🌱 I'm currently learning
 - Devops
 - GO
 - System design
@@ -46,6 +46,22 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vim,linux,vscode,css,html,py,redis,md,postman,react,bootstrap,redhat,cpp,js,ts,postgres,nestjs,mysql,mongodb,docker,prisma,nodejs,expressjs,go,obsidian&perline=10" />
   </a>
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHossam777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHossam777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHossam777&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </p>
 
 ---
