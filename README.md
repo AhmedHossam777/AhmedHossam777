@@ -50,12 +50,12 @@
 
 </div>
 <div align="center">
-  <img width="45%" src="https://github-readme-stats-fast.vercel.app/api?username=AhmedHossam777&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img width="45%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=AhmedHossam777&theme=github_dark" alt="GitHub Streak" />
+  <img width="45%" src="https://github-readme-stats-fast.vercel.app/api?username=AhmedHossam777&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=AhmedHossam777&theme=dark" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img width="50%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AhmedHossam777&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img width="50%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AhmedHossam777&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 <br/>
 <div align="center">
