@@ -4,9 +4,6 @@
 
 <h2 align="center">💻 Software Engineer</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%9A%80;Building+Scalable+Systems;Node.js+%7C+TypeScript+%7C+Go" alt="Typing SVG" />
-</p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=AhmedHossam777&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views"/> 
