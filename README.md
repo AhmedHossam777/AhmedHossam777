@@ -24,8 +24,6 @@
 
 🎓 Software Engineer Intern at **Manara**
 
-💡 Focused on designing robust APIs and scalable systems
-
 📫 Reach me at **ahmedhossam9226@gmail.com**
 
 📄 View my [Resume](https://drive.google.com/file/d/1XP9NphGcKl84vlnU14SojXnC3Zl0JtM1/view?usp=sharing)
