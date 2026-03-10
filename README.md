@@ -37,7 +37,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,linux,vscode,css,html,py,redis,md,postman,react,bootstrap,redhat,cpp,js,ts,postgres,nestjs,mysql,mongodb,docker,prisma,nodejs,express,go,obsidian,rabbitmq,githubactions,nginx&perline=10" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=git,vim,linux,vscode,py,redis,md,postman,react,angular,tailwind,cpp,js,ts,postgres,nestjs,mysql,mongodb,docker,prisma,nodejs,express,go,obsidian,rabbitmq,githubactions,nginx&perline=10" alt="Skills"/>
   </a>
 </p>
 <br/>
