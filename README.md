@@ -65,14 +65,8 @@
   <a href="https://linkedin.com/in/ahmed-hossam-8319a1214/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/ahmed_hossam111" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
-  </a>
   <a href="mailto:ahmedhossam9226@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
-  <a href="https://dev.to/ahmedhossam777/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to"/>
   </a>
 </p>
 <br/>
