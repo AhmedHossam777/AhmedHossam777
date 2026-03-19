@@ -26,7 +26,7 @@
 
 📫 Reach me at **ahmedhossam9226@gmail.com**
 
-📄 View my [CV]([https://drive.google.com/file/d/1XP9NphGcKl84vlnU14SojXnC3Zl0JtM1/view?usp=sharing](https://drive.google.com/file/d/1JhcG-PJq3dehsCXIqQCngW3gHsXt8KNC/view?usp=sharing))
+📄 View my [CV](https://drive.google.com/file/d/1JhcG-PJq3dehsCXIqQCngW3gHsXt8KNC/view?usp=sharing)
 
 </div>
 <br/>
