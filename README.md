@@ -14,7 +14,7 @@
 </div>
 <div align="center">
 
-🌱 Currently learning **DevOps**, **Go**, and **System Design**
+🌱 Currently learning **DevOps**, **Java**, and **System Design**
 
 🎓 FullStack Software Engineer Trainee at **ITI**
 
